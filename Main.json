@@ -1,7 +1,10 @@
 {
   "Data":[{
-     "Data": 0,
-    "Temporada" : "0",
+    "Data": 0,
+    "Temporada": "5",
+    "Festive": true,
+    "NextItemShop": "24 DE DICIEMBRE",
+    "NextSeason": "Indefinido",
     "Skin1" : 4,
     "Skin2" : 7,
     "Skin3" : 18,
@@ -10,11 +13,9 @@
     "Item6" : 9,
     "Item7" : 10,
     "MejorJugador" : "Gers123",
-    "Noticias": "Bienvenido a la pretemporada del FortniteFangame3.0! \n Por aqui se avisarán los ultimos mensajes...",
     "MejorJugadorPuntaje" : 0,
+    "Noticias": "Bienvenido a la pretemporada del FortniteFangame3.0! \n Por aqui se avisarán los ultimos mensajes...",
     "item34" : 0
-    
-    
   }
     ]
 }
