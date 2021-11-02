@@ -4,11 +4,17 @@
     "Temporada" : "0",
     "Skin1" : 0,
     "Skin2" : 0,
-    "Skin3" : 17,
+    "Skin3" : 0,
     "Item4" : 0,
     "Item5" : 0,
     "Item6" : 0,
-    "Item7" : 0
+    "Item7" : 0,
+    "MejorJugador" : "Gers123",
+    "Noticias": "Bienvenido a la pretemporada del FortniteFangame3.0! \n Por aqui se avisarán los ultimos mensajes...",
+    "MejorJugadorPuntaje" : 0,
+    "item34" : 0
+    
+    
   }
     ]
 }
