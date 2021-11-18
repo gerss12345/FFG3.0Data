@@ -2,20 +2,15 @@
   "Data":[{
     "Data": 0,
     "GameVersion" : "1.0",
-    "Temporada": "5",
+    "Temporada": 5,
     "Festive": true,
-    "NextItemShop": " EL DÍA QUE DEJES DE SER MANCO",
+    "NextItemShop": "DÍA QUE DEJES DE SER MANCO",
     "NextSeason": "Indefinido",
-    "Skin1" : 4,
-    "Skin2" : 7,
-    "Skin3" : 0,
-    "Item4" : 16,
-    "Item5" : 17,
-    "Item6" : 9,
-    "Item7" : 10,
-    "MejorJugador" : "Gers123",
-    "MejorJugadorPuntaje" : 0,
-    "Noticias": "Bienvenido a la pretemporada del FortniteFangame3.0! \n Por aqui se avisarán los ultimos mensajes...",
+    "BattlePassSkins" : [12, 34, 56, 43, 95],    
+    "BattlepassEmotes": [12, 34, 56, 43, 95],
+    "ItemShopSkins" : [12, 34, 56, 43, 95],
+    "ItemShopEmotes" : [12, 34, 56, 43, 95],  
+    "NewsText" : ["¡Bienvenido!", "¡Te damos la bienvenida a la primera versión del fangame 3.0!", "Sube el pase de batalla para desbloquear items,", "la tienda se actualiza semanalmente."],    
     "item34" : 0
   }
     ]
