@@ -1,6 +1,7 @@
 {
   "Data":[{
     "Data": 0,
+    "GameVersion" : "1.0",
     "Temporada": "5",
     "Festive": true,
     "NextItemShop": " EL DÍA QUE DEJES DE SER MANCO",
