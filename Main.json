@@ -4,13 +4,16 @@
     "GameVersion" : "1.0",
     "Temporada": 5,
     "Festive": true,
+    "NewsText": ["¡Bienvenido a la temporada 5!","Desbloquea el pase antes de que termine la temporada!","Nuevo estilo de La Bombardera en la tienda!","¡Feliz navidad!"],
+    "NewsImageType" : [0,1,2,3],
+    "SkinToShowcase" : 9,
     "NextItemShop": "DÍA QUE DEJES DE SER MANCO",
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
     "ItemShopSkins" : [12, 34, 56, 43, 95],
     "ItemShopEmotes" : [12, 34, 56, 43, 95],  
-    "NewsText" : ["¡Bienvenido!", "¡Te damos la bienvenida a la primera versión del fangame 3.0!", "Sube el pase de batalla para desbloquear items,", "la tienda se actualiza semanalmente."],    
+    
     "item34" : 0
   }
     ]
