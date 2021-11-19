@@ -1,6 +1,5 @@
 {
   "Data":[{
-    //VERSION DEL JUEGO Y TEMPORADA
     
     "Data": 0,
     "GameVersion" : "1.0",
@@ -11,10 +10,7 @@
     "NewsFestive" : 0,
     "SkinToShowcase" : 9,
     
-    // ImageType 0 : Nada,      ImageType 1: PaseDeBatalla,       ImageType 2: SkinDeTienda      , ImageType3: Festividad.
-    
-    
-    //TIENDA Y PASE
+
     
     "NextItemShop": "DÍA QUE DEJES DE SER MANCO",
     "NextSeason": "Indefinido",
