@@ -4,7 +4,7 @@
     "Data": 0,
     "GameVersion" : "1.0",
     "Temporada" : 5,
-    "Festive" : true,
+    "Festive" : false,
     "NewsText" : ["¡Bienvenido a la temporada 5!","Desbloquea el pase antes de que termine la temporada!","Nuevo estilo de La Bombardera en la tienda!","¡Feliz navidad!"],
     "NewsImageType" : [0,1,2,3],
     "NewsFestive" : 0,
