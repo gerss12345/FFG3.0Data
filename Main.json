@@ -5,11 +5,11 @@
     "GameVersion" : "1.0",
     "Temporada" : 5,
     "Festive" : 1,
-    "NewsText" : ["Estoy arreglando varios problemas de incompatibilidad de android, además de errores de traducción y colisión en las construcciones, debería salir una nueva versión en unos dias. I'm fixing various android incompatibility issues, as well as translation errors and build collisions, a new version should be out in a few days.",,"¡Bienvenido a la temporada 5!","Desbloquea el pase antes de que termine la temporada!","Nuevo estilo de La Bombardera en la tienda!","¡Feliz navidad!"],
-    "NewsImageType" : [0,0,1,2,3],
+    "NewsText" : ["Estoy arreglando varios problemas de incompatibilidad de android, además de errores de traducción y colisión en las construcciones, debería salir una nueva versión en unos dias",". I'm fixing various android incompatibility issues, as well as translation errors and build collisions, a new version should be out in a few days.","¡Bienvenido a la temporada 5!","Desbloquea el pase antes de que termine la temporada!","Nuevo estilo de La Bombardera en la tienda!","¡Feliz navidad!"],
+    "NewsImageType" : [0,0,0,1,2,3],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
-    "LastPatchNote" : 5,
+    "LastPatchNote" : 6,
     "RecentUpdate" : "https://www.youtube.com/watch?v=5annpBxe53Y",
     
 
