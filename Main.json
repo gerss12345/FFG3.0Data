@@ -14,13 +14,13 @@
     
 
     
-    "NextItemShop": "1 DE ENERO",
+    "NextItemShop": "7 DE ENERO",
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
     "ItemShopSkins" : [4, 7, 0],
-    "ItemShopSecundarySkins" : [16, 17],
-    "ItemShopEmotes" : [9, 10],  
+    "ItemShopSecundarySkins" : [39, 34],
+    "ItemShopEmotes" : [12, 13],  
     
     "item34" : 0
   }
