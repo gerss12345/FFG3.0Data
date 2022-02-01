@@ -5,7 +5,7 @@
     "GameVersion" : "2.0",
     "Temporada" : 4,
     "Festive" : 0,
-    "NewsText" : ["BIENVENIDO A LA TEMPORADA 4!],
+    "NewsText" : ["BIENVENIDO A LA TEMPORADA 4!, ],
     "NewsImageType" : [0,0],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
