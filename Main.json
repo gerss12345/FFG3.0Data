@@ -19,8 +19,8 @@
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
     "ItemShopSkins" : [49, 47, 46],
-    "ItemShopSecundarySkins" : [53,6],
-    "ItemShopEmotes" : [18, 12],  
+    "ItemShopSecundarySkins" : [34,50],
+    "ItemShopEmotes" : [18, 11],  
     
     "item34" : 0
   }
