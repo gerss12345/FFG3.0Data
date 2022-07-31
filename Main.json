@@ -13,7 +13,9 @@
     "LastPatchNote" : 24,
     "RecentUpdate" : "https://www.youtube.com/watch?v=3cWra6u7vro",
     
-
+      "CanBePlayed?" : true,
+     "ServerIP" : "167.61.65.31", 
+      "ServerClosed" : false,
     
     "NextItemShop": "DIA DE ACTUALIZACIÓN",
     "NextSeason": "Indefinido",
@@ -22,9 +24,7 @@
     "ItemShopSkins" : [49, 47, 46],
     "ItemShopSecundarySkins" : [4,0],
     "ItemShopEmotes" : [18, 11],
-     "CanBePlayed?" : true,
-     "ServerIP" : "167.61.65.31", 
-      "ServerClosed" : false,
+   
 
 
 
