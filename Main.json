@@ -24,7 +24,7 @@
     "ItemShopEmotes" : [18, 11],
      "CanBePlayed?" : true,
      "ServerIP" : "167.61.65.31", 
-      "ServerClosed" : false, 
+      "ServerClosed" : true, 
 
 
 
