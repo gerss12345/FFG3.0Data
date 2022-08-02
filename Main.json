@@ -15,7 +15,7 @@
     
       "CanBePlayed?" : true,
      "ServerIP" : "179.26.17.148", 
-      "ServerClosed" : true,
+      "ServerClosed" : false,
     
     "NextItemShop": "DIA DE ACTUALIZACIÓN",
     "NextSeason": "Indefinido",
