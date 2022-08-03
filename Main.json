@@ -30,7 +30,7 @@
 
 
 "BetaTestText" : "SERVIDOR CERRADO POR DESARROLLO, SERVER CLOSED,Si el botón de jugar está gris y puedes leer este mensaje, significa que el servidor está cerrado, el juego NO está creado para jugar otros modos de juego, por lo que deberás esperar a que el servidor esté abierto otra vez, aún así, podrás probar el modo LAN siempre y cuando tengas a un amigo o hermano en tu casa ",
-"ServerOnline" : true,    
+"ServerOnline" : false,    
     "item34" : 0
   }
     ]
