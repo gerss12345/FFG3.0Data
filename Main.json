@@ -14,7 +14,7 @@
     "RecentUpdate" : "https://www.youtube.com/watch?v=3cWra6u7vro",
     
       "CanBePlayed?" : true,
-     "ServerIP" : "167.56.248.116", 
+     "ServerIP" : "167.61.69.52", 
       "ServerClosed" : false,
     
     "NextItemShop": "DIA DE ACTUALIZACIÓN",
@@ -30,7 +30,7 @@
 
 
 "BetaTestText" : "NECESITAS LA ULTIMA VERSION PARA JUGAR, SI LA TIENES Y NO PUEDES, PUEDE SER UN PROBLEMA DE CONEXIÓN,Si el botón de jugar está gris y puedes leer este mensaje, significa que el servidor está cerrado, el juego NO está creado para jugar otros modos de juego, por lo que deberás esperar a que el servidor esté abierto otra vez, aún así, podrás probar el modo LAN siempre y cuando tengas a un amigo o hermano en tu casa ",
-"ServerOnline" : false,    
+"ServerOnline" : true,    
     "item34" : 0
   }
     ]
