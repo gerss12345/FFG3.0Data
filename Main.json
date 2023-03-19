@@ -6,8 +6,8 @@
     "Temporada" : 4,
     "Festive" : 0,
     
-    "NewsText" : ["¡Feliz navidad!, se está trabajando en una nueva versión que traerá mejoras graficas, mecanicas y contenido, puede que llege antes de lo esperado"],
-    "NewsImageType" : [0,0],
+    "NewsText" : ["El bug de la tienda y actualización fue arreglado, lamento el inconveniente"],
+    "NewsImageType" : [1,38],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
     "LastPatchNote" : 26,
