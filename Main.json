@@ -8,11 +8,11 @@
     
     "SamuelG534" : ["84","AHORA TIENES EL PODER DEL GAMING", "SamuelGaming dice"],
     
-    "NewsText" : ["Por un problema en el sistema de codigos de creador, la skin de Samuel Gaming se encuentra en la tienda por 0 pavos"],
+    "NewsText" : ["Nueva tienda!"],
     "NewsImageType" : [2,117],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
-    "LastPatchNote" : 44,
+    "LastPatchNote" : 46,
     "RecentUpdate" : "https://www.youtube.com/watch?v=3cWra6u7vro",
     
       "CanBePlayed?" : true,
@@ -23,8 +23,8 @@
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
-    "ItemShopSkinss" : [98, 97, 84],
-    "ItemShopSecundarySkinss" : [3,111],
+    "ItemShopSkinss" : [8, 53, 55],
+    "ItemShopSecundarySkinss" : [40,51],
     "ItemShopEmotess" : [3, 34],
    
     
