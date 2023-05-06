@@ -38,7 +38,7 @@
     
     
     
-    "getBetaVersion" : [1,1],
+    "BetaTestOn" : true,
     
     "UserGers123" : ["Gers123","imtheonewhoknocks"],
     
