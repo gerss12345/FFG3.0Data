@@ -8,11 +8,11 @@
     
     "SamuelG534" : ["84","AHORA TIENES EL PODER DEL GAMING", "SamuelGaming dice"],
     
-    "NewsText" : ["¡Feliz navidad! ¡reclama tu skin gratis en la tienda!","¡La nueva versión del juego está en desarrollo!","Es probable que la proxima versión reinicie los pavos, ¡gastalos antes de que salga!"],
-    "NewsImageType" : [3,1],
+    "NewsText" : ["¡Feliz navidad! ¡reclama tu skin gratis en la tienda!","Estoy teniendo problemas para crear un ejecutable, lo que retrasa el desarrollo, cuando esto sea arreglado, se seguirá el desarrollo normalmente","Es probable que la proxima versión reinicie los pavos, ¡gastalos antes de que salga!"],
+    "NewsImageType" : [3,1,1],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
-    "LastPatchNote" : 66,
+    "LastPatchNote" : 69,
     "RecentUpdate" : "https://www.youtube.com/watch?v=3cWra6u7vro",
     
       "CanBePlayed?" : false,
