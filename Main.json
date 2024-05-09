@@ -8,7 +8,7 @@
     
     "SamuelG534" : ["84","AHORA TIENES EL PODER DEL GAMING", "SamuelGaming dice"],
     
-    "NewsText" : ["¡Feliz navidad! ¡reclama tu skin gratis en la tienda!","Estoy teniendo problemas para crear un ejecutable, lo que retrasa el desarrollo, cuando esto sea arreglado, se seguirá el desarrollo normalmente","Es probable que la proxima versión reinicie los pavos, ¡gastalos antes de que salga!"],
+    "NewsText" : ["Tienda actualizada!"],
     "NewsImageType" : [3,1,1],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
@@ -23,9 +23,9 @@
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
-    "ItemShopSkinss" : [60, 62, 55],
-    "ItemShopSecundarySkinss" : [56,45],
-    "ItemShopEmotess" : [1, 14],
+    "ItemShopSkinss" : [63, 18, 45],
+    "ItemShopSecundarySkinss" : [50,55],
+    "ItemShopEmotess" : [10, 34],
    
     
     "BaneadosPorPelotudos" : ["EISEZA 15","CR_MAIKY","gustrikerTFG"],
