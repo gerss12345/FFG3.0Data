@@ -8,7 +8,7 @@
     
     "SamuelG534" : ["84","AHORA TIENES EL PODER DEL GAMING", "SamuelGaming dice"],
     
-    "NewsText" : ["Tienda actualizada!"],
+    "NewsText" : ["Tienda actualizada, mantente alerta"],
     "NewsImageType" : [3,1,1],
     "NewsFestive" : 0,
     "ItemShopSkinToShow" : 4,
@@ -23,9 +23,9 @@
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
-    "ItemShopSkinss" : [63, 18, 45],
-    "ItemShopSecundarySkinss" : [50,55],
-    "ItemShopEmotess" : [10, 34],
+    "ItemShopSkinss" : [49, 7, 97],
+    "ItemShopSecundarySkinss" : [67,56],
+    "ItemShopEmotess" : [9, 35],
    
     
     "BaneadosPorPelotudos" : ["EISEZA 15","CR_MAIKY","gustrikerTFG"],
