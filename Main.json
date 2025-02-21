@@ -23,9 +23,9 @@
     "NextSeason": "Indefinido",
     "BattlePassSkins" : [9, 10, 11, 12, 13,14,15],    
     "BattlepassEmotes": [4, 5, 6, 7, 8],
-    "ItemShopSkinss" : [49, 7, 97],
-    "ItemShopSecundarySkinss" : [67,56],
-    "ItemShopEmotess" : [9, 35],
+    "ItemShopSkinss" : [60, 63, 54],
+    "ItemShopSecundarySkinss" : [43,34],
+    "ItemShopEmotess" : [1, 3],
    
     
     "BaneadosPorPelotudos" : ["EISEZA 15","CR_MAIKY","gustrikerTFG"],
